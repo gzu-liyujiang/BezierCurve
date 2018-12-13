@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+.DS_Store
+/build
+/captures
+/.idea
+/*.iml
+/gradlew
+/gradlew.bat
+src/main/java/
+/out/
+/release/
+/debug/
+
