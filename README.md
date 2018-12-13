@@ -1,5 +1,5 @@
 ﻿### **成果物**
 
-![](/blob/master/wiki/result.gif)
+![](/screenshot.gif)
 
 Copy from https://github.com/skypanda100/BezierCurve
